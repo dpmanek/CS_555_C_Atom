@@ -1,2 +1,2 @@
 # LevelEditor
- My updated level editor in pygame
+ My level editor in pygame
