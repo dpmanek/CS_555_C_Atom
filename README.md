@@ -1,7 +1,7 @@
 # CS_555_C_Atom
 This repository includes all the main files and outputs of the tasks performed by our team members.
 
-The main file with the integrated codes is "Mrs.Kong.py".
+The main file with the integrated codes is "Mrs.Kong(i).py".
 
 You can use any of the code editors to run the files. To get the desired output, please install pygame, python 3 or above. 
 
