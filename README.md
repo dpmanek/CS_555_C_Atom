@@ -8,3 +8,5 @@ You can use any of the code editors to run the files. To get the desired output,
 To install python, use this link: "https://www.python.org/downloads/" and click on Download button. I would recommend users to download python 3.8.
 
 To install Pygame, use "pip install pygame".
+
+Output for Sprint-3 is mentioned as "Mrs.Kong-Demo.mp4"
