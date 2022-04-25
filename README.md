@@ -10,3 +10,13 @@ To install python, use this link: "https://www.python.org/downloads/" and click 
 To install Pygame, use "pip install pygame".
 
 Output for Sprint-4 is mentioned as "Revenge.mp4"
+
+Controls:
+++++++++++++++++++++++++
+
+W -  Jump
+A -   Move behind
+D - Move Ahead
+Space - Shoot
+Throw Grenade - Q
+Esc - Quit

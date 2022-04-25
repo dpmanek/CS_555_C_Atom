@@ -1,0 +1,9 @@
+Controls:
+++++++++++++++++++++++++
+
+W -  Jump
+A -   Move behind
+D- Move Ahead
+Space - Shoot
+Throw Grenade - Q
+Esc - Quit
