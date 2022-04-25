@@ -16,7 +16,7 @@ SCREEN_WIDTH = 1425
 SCREEN_HEIGHT = int(SCREEN_WIDTH * 0.6)
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption('Mrs.Kong')
+pygame.display.set_caption('Revenge')
 
 #set framerate
 clock = pygame.time.Clock()
